@@ -7,7 +7,7 @@
 import re
 import sys
 	
-fo = open(sys.argv[1] , "r")
+fo = open(first_script , "r")
 line_counter = 1
 
 lines = fo.readlines()
